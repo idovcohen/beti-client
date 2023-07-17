@@ -4,8 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Docker
 
-You can run this client on docker using by running the commands:
+You can run this client on docker using by running the commands
+
+
 docker build -t beti-client .
+
+
 docker run -d -p 4200:4200 beti-client 
 
 ## Development server
